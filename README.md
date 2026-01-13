@@ -16,7 +16,7 @@
 
 <div align="center">
 
-##  **Data Scientist | ML Developer | Full-Stack Developer**
+##  **Data Analyst | ML Developer | Data Scientist*
 
 *Building intelligent solutions from data to deployment with strong engineering foundations*
 
@@ -31,7 +31,7 @@
 
 ## 🧬 **About Me**
 
-I'm a **Data Scientist** and **Machine Learning Developer** with a strong foundation in full-stack development. My journey began in backend development, and I've evolved into someone who can build complete ML solutions - from data analysis to model deployment in production environments.
+I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundation in Data Science. My journey began in backend development, and I've evolved into someone who can build complete ML solutions - from data analysis to model deployment in production environments.
 
 **What makes me unique:**
 - 🔧 **Full-Stack ML Developer**: I don't just build models, I deploy them
