@@ -1,8 +1,8 @@
 <div align="center">
 
 #  Hey there! I'm Krishal Karna 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Developer;Full-Stack+Developer;Backend+Specialist;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kreeshal17&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-##  **Data Analyst | ML Developer | Data Scientist*
+##  *Data Analyst | ML Developer | Data Scientist*
 
 *Building intelligent solutions from data to deployment with strong engineering foundations*
 
