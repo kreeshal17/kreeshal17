@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Hey there! I'm Krishal Karna 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Data+Scientist;Machine+Learning+Engineer;Data+Analyst" alt="Typing SVG" />
 
 
 <p align="center">
@@ -16,13 +16,14 @@
 
 <div align="center">
 
-##  *Data Analyst | ML Developer | Data Scientist*
+## *Full Stack Developer | AI Engineer | Data Scientist | Data Analyst*
 
-*Building intelligent solutions from data to deployment with strong engineering foundations*
+*Building intelligent full-stack solutions — from data pipelines to production AI applications*
 
 ### 🌐 **Connect With Me**
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-krishalkarna.com.np-FF6B6B?style=for-the-badge)](https://krishalkarna.com.np)
 [![Blog](https://img.shields.io/badge/📝_Blog-blinder17.blogspot.com-FF8E53?style=for-the-badge)](https://blinder17.blogspot.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-krishalkarna-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/krishalkarna)
 [![Email](https://img.shields.io/badge/📧_Email-karnakreeshal@gmail.com-4ECDC4?style=for-the-badge)](mailto:karnakreeshal@gmail.com)
 
 </div>
@@ -31,22 +32,36 @@
 
 ## 🧬 **About Me**
 
-I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundation in Data Science. My journey began in backend development, and I've evolved into someone who can build complete ML solutions - from data analysis to model deployment in production environments.
+I'm a **Full Stack Developer**, **AI Engineer**, and **Data Scientist** who builds complete solutions — from data analysis and ML models to production-ready web applications powered by AI.
 
 **What makes me unique:**
-- 🔧 **Full-Stack ML Developer**: I don't just build models, I deploy them
-- 💻 **Strong Engineering Background**: Backend development experience with Spring Boot, Flask
-- 🎯 **End-to-End Solutions**: From database to frontend, I can handle the complete pipeline
-- 📊 **Business-Focused**: I translate complex data insights into actionable business solutions
+- 🔧 **Full-Stack AI Developer**: I build AI-powered apps end to end — backend, frontend, and model integration
+- 🤖 **Agentic AI**: Building LangGraph and LangChain powered agents and RAG pipelines
+- 💻 **Strong Engineering Background**: Next.js, Prisma, Spring Boot, Flask
+- 🎯 **End-to-End Solutions**: From database to frontend to deployed ML model
+- 📊 **Business-Focused**: Translating complex data insights into actionable business solutions
 
-**My Approach:** Combining software engineering best practices with data science to create robust, scalable ML solutions that actually work in production.
+**My Approach:** Combining software engineering best practices with AI and data science to create robust, scalable solutions that work in production.
 
 ---
 
-##  **My Journey & Expertise**
+## **My Journey & Expertise**
 
 <details>
-<summary> <b>Machine Learning & Data Science</b> (Click to expand)</summary>
+<summary><b>🤖 AI Engineering & LLM Applications</b> (Click to expand)</summary>
+
+### AI Engineering Competencies
+- 🦜 **LangChain**: Building LLM-powered pipelines, RAG systems, document QA
+- 🔗 **LangGraph**: Agentic workflows, multi-step reasoning, stateful AI agents
+- 🧠 **RAG Systems**: Retrieval-augmented generation with vector databases
+- 🤖 **LLM Integration**: Google Gemini, OpenAI API, Vercel AI SDK
+- 📄 **Document AI**: PDF processing, embedding pipelines, semantic search
+- 🚀 **AI Deployment**: Serving AI applications in production with Next.js and FastAPI
+
+</details>
+
+<details>
+<summary><b>🧬 Machine Learning & Data Science</b> (Click to expand)</summary>
 
 ### Core ML Competencies
 - 🔬 **Machine Learning**: Supervised/Unsupervised learning, Model optimization, Cross-validation
@@ -54,12 +69,6 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 - 📊 **Statistical Analysis**: Hypothesis testing, A/B testing, Regression analysis
 - 🎯 **Feature Engineering**: Data preprocessing, Feature selection, Pipeline optimization
 - 📈 **Model Deployment**: Flask APIs, Model serving, Production ML workflows
-
-### Current Focus
-- Building production-ready ML models
-- Deep learning applications
-- MLOps practices and model versioning
-- Real-time prediction systems
 
 </details>
 
@@ -71,27 +80,24 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 - 📊 **Power BI**: Interactive dashboards, DAX queries, Data visualization, Business reporting
 - 🔍 **Data Analysis**: Pattern recognition, Customer analytics, Performance metrics
 - 📈 **Business Intelligence**: KPI development, Trend analysis, Strategic insights
+- - ❄️ **Snowflake**: Cloud data warehousing
+- 🐝 **Apache Hive**: HiveQL, big data querying on Hadoop
+- 🐷 **Apache Pig**: Pig Latin, large-scale data transformation
 
 </details>
 
 <details>
-<summary>💻 <b>Full-Stack Development Experience</b> (Click to expand)</summary>
+<summary>💻 <b>Full-Stack Development</b> (Click to expand)</summary>
 
-### Backend Development (My Strong Foundation)
-- 🐍 **Flask**: RESTful APIs, Authentication, Database integration, ML model serving
+### Full Stack Expertise
+- ⚡ **Next.js**: Full-stack React framework, App Router, Server Actions, API Routes
+- 🔷 **Prisma**: Type-safe ORM, database migrations, schema management
+- 🐍 **Flask**: RESTful APIs, Authentication, ML model serving
 - ☕ **Spring Boot**: Microservices, Security, JPA, Enterprise applications
-- 🗄️ **MySQL**: Database design, Query optimization, Data modeling
-- 🔧 **API Development**: RESTful services, JSON handling, Error management
-
-### Frontend Development
+- 🗄️ **PostgreSQL / MySQL**: Database design, Query optimization, Data modeling
 - ⚛️ **React**: Modern hooks, State management, Component architecture
 - 🎨 **Tailwind CSS**: Responsive design, Modern styling, UI components
-- 🌐 **Web Technologies**: HTML5, CSS3, JavaScript ES6+
-- 🚀 **Deployment**: Production deployment strategies, Performance optimization
-
-### Additional Skills
-- 📱 **Android Development**: Learned Jetpack Compose, Modern Android patterns
-- 🔄 **Version Control**: Git workflows, Collaborative development
+- 🚀 **Deployment**: Vercel, production deployment strategies
 
 </details>
 
@@ -99,11 +105,19 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 
 ## 🛠️ **Tech Stack**
 
-### 🤖 **Machine Learning & Data Science**
+### 🤖 **AI & LLM Engineering**
+<p>
+<img src="https://img.shields.io/badge/LangChain-🦜-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-🔗-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-✨-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-🧠-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-⚡-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-🔍-00599C?style=for-the-badge"/>
+</p>
+
+### 🧬 **Machine Learning & Data Science**
 <p>
 <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-🧠-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-🔥-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-⚙️-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-🐼-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-🔢-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -118,32 +132,39 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 <img src="https://img.shields.io/badge/Tableau-📈-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-🪐-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-📓-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-❄️-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hive-🐝-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache_Pig-🐷-E35A16?style=for-the-badge"/>
 </p>
 
-### ⚙️ **Backend & Database**
+### ⚡ **Full Stack & Backend**
 <p>
+<img src="https://img.shields.io/badge/Next.js-⚡-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-⚛️-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-🔷-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-🔷-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-🍃-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-🌶️-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-🐘-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-🗄️-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-☕-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-🔗-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redis-🔴-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### 🎨 **Frontend Development**
+### 🎨 **Frontend & Styling**
 <p>
-<img src="https://img.shields.io/badge/React-⚛️-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-🎨-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-🌐-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-🎭-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-⚡-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🛠️ **Tools & Technologies**
+### ☁️ **Cloud & Tools**
 <p>
+<img src="https://img.shields.io/badge/Vercel-▲-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-☁️-3448C5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-🔧-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-💻-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-📮-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-📱-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ---
@@ -169,17 +190,7 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 
 </div>
 
----
 
-## 🏆 **Achievement Showcase**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kreeshal17&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 🌟 **What Sets Me Apart**
 
@@ -188,21 +199,22 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 <td width="50%">
 
 ### 🎯 **Unique Value Proposition**
-- **🔄 Full-Stack ML Developer**: From data to deployment
-- **💪 Strong Backend Foundation**: Spring Boot & Flask expertise
-- **🗄️ Database Proficiency**: MySQL design and optimization
+- **🔄 Full-Stack AI Developer**: From data to deployed AI app
+- **🦜 Agentic AI**: LangGraph + LangChain powered agents
+- **💪 Strong Backend Foundation**: Next.js, Spring Boot, Flask
+- **🗄️ Database Proficiency**: PostgreSQL, MySQL, Prisma ORM
 - **📊 Business Intelligence**: Power BI & Excel mastery
-- **🚀 Production Ready**: Deploy ML models with proper APIs
+- **🚀 Production Ready**: Deploy AI and ML with proper APIs
 
 </td>
 <td width="50%">
 
-###  **Current Learning Path**
-- **🧠 Advanced Deep Learning**: Neural networks, Computer Vision
+### **Current Learning Path**
+- **🔗 Advanced Agentic AI**: Multi-agent systems, LangGraph
 - **☁️ Cloud Deployment**: ML model serving in production
 - **📈 Real-time Analytics**: Streaming data processing
 - **🔮 Advanced ML**: Ensemble methods, Model optimization
-- **📱 Expanding Mobile Skills**: Android development with Jetpack Compose
+- **🧠 RAG Systems**: Advanced retrieval and embedding pipelines
 
 </td>
 </tr>
@@ -212,73 +224,45 @@ I'm a **Data Analyst** and **Machine Learning Developer** with a strong foundati
 
 ## 💼 **Professional Evolution**
 
-My journey represents a natural evolution from backend development to data science:
-
-**🏗️ Backend Developer → 📊 Data Scientist → 🚀 ML Developer**
+**🏗️ Backend Developer → 📊 Data Scientist → 🤖 AI Engineer → 🚀 Full Stack AI Developer**
 
 - **Started with:** Spring Boot, Flask, MySQL - building robust backend systems
-- **Expanded to:** React, Tailwind CSS - creating complete web applications  
-- **Evolved into:** Python, ML, Deep Learning - solving problems with data
-- **Now focusing on:** End-to-end ML solutions that actually work in production
+- **Expanded to:** Next.js, React, Tailwind CSS, Prisma - complete full-stack applications
+- **Evolved into:** Python, ML, LangChain, LangGraph - AI-powered solutions
+- **Now building:** Production-grade full-stack AI applications end to end
 
-This unique path gives me the engineering discipline to build ML solutions that are:
--  **Scalable** - Can handle production loads
--  **Maintainable** - Clean, documented code
--  **Deployable** - Ready for real-world use
--  **Business-Ready** - Solving actual problems
+This unique path gives me the engineering discipline to build AI solutions that are:
+- **Scalable** - Can handle production loads
+- **Maintainable** - Clean, documented code
+- **Deployable** - Ready for real-world use
+- **Business-Ready** - Solving actual problems
 
 ---
-## 💬 **Ready to Turn Data Into Solutions?**
+
+## 💬 **Ready to Build Something Intelligent?**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+Got+a+data+problem%3F;%F0%9F%94%A7+Need+ML+deployment%3F;%F0%9F%92%BC+Want+full-stack+solutions%3F;%F0%9F%A4%9D+Let's+collaborate!" alt="Collaboration Typing" />
-
-### 🎯 **What I Love Working On:**
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Analysis" width="50"/>
-<br><b>Data Analysis</b>
-<br><sub>Extracting insights from complex datasets</sub>
-</td>
-<td align="center" width="25%">
-
-<br><b>ML Models</b>
-<br><sub>Building intelligent prediction systems</sub>
-</td>
-<td align="center" width="25%">
-
-<br><b>Full-Stack Apps</b>
-<br><sub>End-to-end web applications</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Innovation" width="50"/>
-<br><b>Innovation</b>
-<br><sub>Solving real-world problems</sub>
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=💡+Got+a+data+problem%3F;🔧+Need+an+AI+solution%3F;💼+Want+full-stack+AI+apps%3F;🤝+Let's+collaborate!" alt="Collaboration Typing" />
 
 ### 📧 **Hit me up for:**
-- **Data Science Projects** - Let's uncover hidden patterns
-- **ML Deployment** - From model to production
-- **Backend Solutions** - Scalable APIs and databases  
+- **AI Engineering** - LangChain, LangGraph agents and RAG pipelines
+- **Full Stack Development** - Next.js, Prisma, PostgreSQL applications
+- **Data Science Projects** - Uncovering hidden patterns in data
+- **ML Deployment** - From model to production API
 - **Business Analytics** - Data-driven decision making
 - **Tech Collaborations** - Building something meaningful together
-
----
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=65&desc=Drop%20me%20a%20message%20and%20let's%20create%20something%20awesome&descAlignY=51&descAlign=center" alt="Footer" />
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=65&desc=Drop%20me%20a%20message%20and%20let's%20create%20something%20awesome&descAlignY=51&descAlign=center" alt="Footer" />
+
+---
+
 <div align="center">
-<i>⭐ "From backend foundations to ML innovations" ⭐</i>
+<i>⭐ "From backend foundations to full-stack AI innovations" ⭐</i>
 <br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%92%BB;Let's+Connect!+%F0%9F%A4%9D" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Happy+Coding!+💻;Let's+Connect!+🤝" alt="Footer Typing" />
 </div>
