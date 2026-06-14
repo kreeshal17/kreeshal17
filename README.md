@@ -97,7 +97,7 @@ I'm a **Full Stack Developer**, **AI Engineer**, and **Data Scientist** who buil
 - 🗄️ **PostgreSQL / MySQL**: Database design, Query optimization, Data modeling
 - ⚛️ **React**: Modern hooks, State management, Component architecture
 - 🎨 **Tailwind CSS**: Responsive design, Modern styling, UI components
-- 🚀 **Deployment**: Vercel, production deployment strategies
+-  **Deployment**: Vercel, production deployment strategies
 
 </details>
 
@@ -204,7 +204,7 @@ I'm a **Full Stack Developer**, **AI Engineer**, and **Data Scientist** who buil
 - **💪 Strong Backend Foundation**: Next.js, Spring Boot, Flask
 - **🗄️ Database Proficiency**: PostgreSQL, MySQL, Prisma ORM
 - **📊 Business Intelligence**: Power BI & Excel mastery
-- **🚀 Production Ready**: Deploy AI and ML with proper APIs
+- ** Production Ready**: Deploy AI and ML with proper APIs
 
 </td>
 <td width="50%">
@@ -224,7 +224,7 @@ I'm a **Full Stack Developer**, **AI Engineer**, and **Data Scientist** who buil
 
 ## 💼 **Professional Evolution**
 
-**🏗️ Backend Developer → 📊 Data Scientist → 🤖 AI Engineer → 🚀 Full Stack AI Developer**
+**🏗️ Backend Developer → 📊 Data Scientist → 🤖 AI Engineer → Full Stack AI Developer**
 
 - **Started with:** Spring Boot, Flask, MySQL - building robust backend systems
 - **Expanded to:** Next.js, React, Tailwind CSS, Prisma - complete full-stack applications
