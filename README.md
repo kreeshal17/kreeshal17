@@ -123,20 +123,9 @@ Started backend-heavy in Java, got pulled into ML in second year, learned to ser
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kreeshal17/kreeshal17/main/assets/leetcode-120d-dark.svg">
-  <img alt="LeetCode submissions, last 120 days" src="https://raw.githubusercontent.com/kreeshal17/kreeshal17/main/assets/leetcode-120d-light.svg">
-</picture>
-
-<br/>
-
 <a href="https://leetcode.com/u/kreeshal17/">
-  <img src="https://leetcard.jacoblin.cool/kreeshal17?theme=nord&font=Fira%20Code&border=0&radius=10&animation=false" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/kreeshal17?theme=nord&font=Fira%20Code&border=0&radius=10&animation=false&ext=heatmap" alt="LeetCode stats" />
 </a>
-
-<br/>
-
-<sub>Last 120 days, pulled from LeetCode's GraphQL API by <a href="scripts/leetcode_heatmap.py">a script</a> and redrawn daily by <a href=".github/workflows/leetcode-heatmap.yml">an Action</a>.</sub>
 
 </div>
 
@@ -145,9 +134,6 @@ Started backend-heavy in Java, got pulled into ML in second year, learned to ser
 ## GitHub
 
 <div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kreeshal17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreeshal17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=kreeshal17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
