@@ -96,15 +96,21 @@ Solved with a component-driven architecture where each generation is a diff agai
 
 ---
 
+
 ## Experience
 
-**Full Stack Developer Intern** — Mahalaxmi Tech Group Pvt. Ltd. (Remote) · *Jan 2026 – Mar 2026*
-Built Next.js pages and reusable UI components wired to Django REST APIs I also developed. PR-based GitHub flow: code review, debugging, API integration, cross-stack feature work.
+**Backend Developer Intern** — Neosophical Labs Pvt. Ltd. · *Sep 2026 – Present*  
+Developing and maintaining Django-based backend systems, building REST APIs, and contributing to production features across multiple application modules. Working on PostgreSQL-backed data models, authentication, business logic, and API integrations. Contributing to AI-powered features involving LLM integrations, voice processing, scoring pipelines, and asynchronous task handling. Also working on analytics APIs, notification systems, performance optimization, debugging, and backend reliability.
 
-**Technical Team Lead** — Enigma Club, Jain University · *Oct 2025 – Apr 2026*
-Led a technical team across events and initiatives, ran coding workshops, mentored juniors on Git workflows and technical planning.
+**Full Stack Developer Intern** — Mahalaxmi Tech Group Pvt. Ltd. (Remote) · *Jan 2026 – Mar 2026*  
+Developed responsive Next.js pages and reusable UI components integrated with Django REST APIs. Worked across frontend and backend workflows, implementing API integrations, debugging application issues, and improving feature functionality. Followed PR-based GitHub workflows involving code reviews, collaborative development, and iterative improvements.
+
+**Technical Team Lead** — Enigma Club, Jain University · *Oct 2025 – Apr 2026*  
+Led a technical team across university events and technical initiatives. Organized coding workshops, mentored junior members on programming fundamentals and Git workflows, coordinated technical activities, and contributed to team planning and execution.
 
 ---
+
+
 
 ## How I Got Here
 
@@ -129,22 +135,12 @@ Started backend-heavy in Java, got pulled into ML in second year, learned to ser
 
 </div>
 
----
 
-## GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kreeshal17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
 
 ## Beyond the Code
 
 - 🎓 **EdCIL COMPEX Scholar** — merit-based Government of India scholarship covering full undergraduate tuition
-- 🧩 **250+ DSA problems** on [LeetCode](https://leetcode.com/u/kreeshal17/) — arrays, graphs, DP, SQL
+- 🧩 **275+ DSA problems** on [LeetCode](https://leetcode.com/u/kreeshal17/) — arrays, graphs, DP, SQL
 - ✍️ **[Learn MySQL series](https://completesql.hashnode.dev/series/learn-mysql)** on Hashnode — SQL from fundamentals to query design
 - 📜 HackerRank Advanced SQL · Google Cloud Generative AI · IBM Applied AI · IBM SkillsBuild Data Fundamentals
 
